@@ -1,1 +1,1 @@
-# metronic-template
+# metronic8-template
